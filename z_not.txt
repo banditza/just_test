@@ -1,0 +1,6 @@
+.gitignore
+git-php
+README.htm
+README.md
+z_not.txt
+...
