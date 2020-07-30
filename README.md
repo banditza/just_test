@@ -7,4 +7,4 @@ just\_test
  Purely for my own git interaction testing purposes...! (or so, it seems?) My site
 -------
 
- [example.com](http://example.com)
+ [example.com](http://example.com) - that's not a real link.
